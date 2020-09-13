@@ -1,0 +1,22 @@
+{
+  "name": "spinner",
+  "version": "1.0.0",
+  "description": "version character select w. react and setup for db connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macribo/spinner.git"
+  },
+  "keywords": [
+    "Gaeilge"
+  ],
+  "author": "macribo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Macribo/spinner/issues"
+  },
+  "homepage": "https://github.com/Macribo/spinner#readme"
+}
