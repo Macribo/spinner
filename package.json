@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Macribo/spinner/issues"
   },
-  "homepage": "https://github.com/Macribo/spinner#readme"
+  "homepage": "https://github.com/Macribo/spinner#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
